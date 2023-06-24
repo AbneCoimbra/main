@@ -1,2 +1,2 @@
-# main
+# primeiro uso
 inicio do aprendizado
